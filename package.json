@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduino-sam-ffb",
+  "version": "1.6.12",
+  "description": "Arduino Due framework with several fixes that allow the device to function properly as a USB controller",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "sam"
+  ],
+  "homepage": "https://www.arduino.cc/reference/en",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bogdan-dumitrescu/ArduinoCore-sam"
+  }
+}
